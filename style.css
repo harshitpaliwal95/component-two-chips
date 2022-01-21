@@ -133,16 +133,16 @@ i {
 }
 /* chip three */
 
-/* for all prime and alret */
-.prime {
+/* prime alret warm chip color*/
+.prime-chip {
   color: white;
   background-color: var(--prime-color);
 }
-.alert {
+.alert-chip {
   color: white;
   background-color: var(--light-pink);
 }
-.warm {
+.warm-chip {
   color: white;
   background-color: var(--warm-color);
 }
